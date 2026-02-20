@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/todo-list-api.git](https://github.com/your-username/todo-list-api.git)
+git clone https://github.com/dablank192/todo-list-api.git
 cd todo-list-api
 ```
 
